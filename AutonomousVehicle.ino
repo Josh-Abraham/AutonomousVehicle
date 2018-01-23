@@ -1,4 +1,5 @@
 #include <NewPing.h>
+//Designed as a first year lab experience for new students
 
 
 #define brake_A 9  // Brake Pin of Channel A
